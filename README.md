@@ -5,3 +5,7 @@ Version control, also known as source control, is the practice of tracking and m
 Version control systems are software tools that help software teams manage changes to source code over time.
 As development environments have accelerated, version control systems help software teams work faster and smarter.
 They are especially useful for DevOps teams since they help them to reduce development time and increase successful deployments.
+
+
+### Collaborator of this project
++ 1. Mayank1759
